@@ -16,5 +16,5 @@
 ⛳Golf
 ⚽Soccer
 🏀Basketball
-✈️Travel (South Korea, Italy, Switzerland, France, UK, Portugal, Netherlands, Spain, Czech Republic, Germany)
-🎻Music (former violinist/violist) 
+✈️Travel 
+🎻Music 
