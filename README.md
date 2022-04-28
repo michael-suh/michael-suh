@@ -13,4 +13,6 @@
 
 <h3> My Hobbies </h3>
 
-![image](https://user-images.githubusercontent.com/97069037/165651979-0fa1915c-5efb-4d98-ab4e-39626d910dd6.png) Golf
+⛳Golf
+⚽Soccer
+✈️Travel 
