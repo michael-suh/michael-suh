@@ -1,4 +1,4 @@
-### Hi, I'm Michael. Welcome to my page! 👋
+<h1> Hi, I'm Michael. Welcome to my page! 👋 </h1>
 
 <h3> My Tech Stack </h3>
 
