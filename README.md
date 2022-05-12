@@ -1,6 +1,10 @@
 <h1> Hi there! I'm Michael👋 </h1>
 
-<p> Welcome to my page! I'm a software engineer based in Southern California. Please feel free to check out my work! 
+<p> Welcome to my page! I'm a software engineer based in Southern California. Please feel free to connect with me! 
+  
+<h3> Links </h3>
+<p><a href="mailto:michaelsuh9901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/michaelsuh9901@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelsuh9901@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/michael-suh/" target="_blank"><img src="https://img.shields.io/badge/MichaelSuh-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
 
 <h3> My Tech Stack </h3>
 
