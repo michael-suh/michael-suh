@@ -4,7 +4,7 @@
   
 <h3> Links </h3>
 <p><a href="mailto:michaelsuh9901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/michaelsuh9901@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelsuh9901@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/michael-suh/" target="_blank"><img src="https://img.shields.io/badge/Michael-Suh-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
+<a href="https://www.linkedin.com/in/michael-suh/" target="_blank"><img src="https://img.shields.io/badge/MichaelSuh-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a></p>
 
 <h3> My Tech Stack </h3>
 
